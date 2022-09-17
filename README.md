@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
 </p>
 
 
@@ -17,7 +17,9 @@ Projeto desenvolvido durante o Next Level Week eSports , na trilha Explorer, que
 <br>
 
 <h1 align="center">
+    <a href="https://peterhfss.github.io/nlw-esports-explorer/">
     <img alt="Example" title="Example" src=".github/preview.svg" width="500px" />
+    </a>
 </h1>
 
 
